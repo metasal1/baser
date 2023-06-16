@@ -69,6 +69,7 @@ function App() {
 
         <ToastContainer />
       </header>
+      <footer>Salim Karim | <a href="mailto:salim@outlook.com.au">email</a> | <a href="https://github.com/">github</a> </footer>
     </div>
   );
 }
